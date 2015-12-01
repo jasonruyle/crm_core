@@ -82,4 +82,4 @@ If you are interested in participating in CRM Core development or seek assistanc
 please contact me directly through this form.
 
 Development sponsored by Trellon.
-
+Updating for use in composer by Jason Ruyle.

@@ -1,0 +1,10 @@
+{
+    "name": "jasonruyle/crm_core",
+    "type": "drupal-module",
+    "description": "CRM Core Modulues.",
+    "keywords": ["crm"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}

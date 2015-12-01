@@ -1,6 +1,6 @@
 # CRM Core
 
-[![Build Status](https://secure.travis-ci.org/RoSk0/crm_core.png?branch=8.x-0.x)](http://travis-ci.org/RoSk0/crm_core)
+[![Build Status](https://secure.travis-ci.org/jasonruyle/crm_core.png?branch=master)](http://travis-ci.org/jasonruyle/crm_core)
 
 ## Summary
 
